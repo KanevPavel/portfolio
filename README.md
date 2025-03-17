@@ -16,7 +16,7 @@
 ## Мои проекты: 
 
 - [Проект Excel](https://github.com/KanevPavel/projects/tree/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20Ex%D1%81el)
-- [Проект Power Bi](https://github.com/KanevPavel/projects/tree/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20Power%20Bi)
+- [Проекты Power Bi](https://github.com/KanevPavel/projects/tree/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20Power%20Bi)
 - [Проект Python, SQL, AB-тест](https://github.com/KanevPavel/projects/tree/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20Python%2C%20SQL%2C%20AB-%D1%82%D0%B5%D1%81%D1%82)
 - [Проект Python](https://github.com/KanevPavel/projects/tree/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20Python)
 - [Проект SQL](https://github.com/KanevPavel/projects/tree/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20SQL)
