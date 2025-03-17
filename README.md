@@ -5,7 +5,6 @@
 - Финансы
 - Сайты и онлайн-торговля
 - Аптеки и медицина
-- Мобильные приложения
 
 **Какие задачи я умею решать:**
 
@@ -14,11 +13,10 @@
 - Увеличение удержания и LTV (смена модели монетизации, data-driven введение новых фич в продукт, поиск слабых мест в воронке удержания)
 - Сделать бизнес прозрачным и контролируемым (автоматизированный сбор и хранение данных, check-up дашборды в Metabase / Power BI)
 
-## Навигация: 
+## Мои проекты: 
 
-- [E-commerce]()
-- [АВС-анализ]()
-- [Когортный анализ]()
-- [Галерея дашбордов]()
-- [задачи SQL]()
-- [задачи Python]()
+- [Проект Excel](https://github.com/KanevPavel/projects/tree/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20Ex%D1%81el)
+- [Проект Power Bi](https://github.com/KanevPavel/projects/tree/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20Power%20Bi)
+- [Проект Python, SQL, AB-тест](https://github.com/KanevPavel/projects/tree/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20Python%2C%20SQL%2C%20AB-%D1%82%D0%B5%D1%81%D1%82)
+- [Проект Python](https://github.com/KanevPavel/projects/tree/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20Python)
+- [Проект SQL](https://github.com/KanevPavel/projects/tree/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20SQL)
