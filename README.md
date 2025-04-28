@@ -15,8 +15,8 @@
 
 ## Мои проекты: 
 
-- [Проект Excel](https://github.com/KanevPavel/projects/tree/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20Ex%D1%81el)
-- [Проекты Power Bi](https://github.com/KanevPavel/projects/tree/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20Power%20Bi)
-- [Проект Python, SQL, AB-тест](https://github.com/KanevPavel/projects/tree/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20Python%2C%20SQL%2C%20AB-%D1%82%D0%B5%D1%81%D1%82)
-- [Проект Python](https://github.com/KanevPavel/projects/tree/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20Python)
-- [Проект SQL](https://github.com/KanevPavel/projects/tree/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20SQL)
+- [Определение рентабельности при потенциальном расширении бизнеса через расчёт показателей юнит-экономики для когорт в Excel](https://github.com/KanevPavel/projects/tree/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20Ex%D1%81el)
+- [Отчёт о работе отдела маркетинга интернет-магазина. Визуализация отчёта в Power BI](https://github.com/KanevPavel/projects/tree/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20Power%20Bi)
+- [Основа для рекомендательной системы онлайн-школы, для повышения среднего чека с помощью Python, AB-тест](https://github.com/KanevPavel/projects/tree/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20Python%2C%20SQL%2C%20AB-%D1%82%D0%B5%D1%81%D1%82)
+- [Исследование поведения пользователей в обновленном приложении мобильной игры с помощью Python](https://github.com/KanevPavel/projects/tree/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20Python)
+- [Анализ эффективности работы компании, определить наиболее перспективный штат для открытия офлайн-магазина с помощью SQL](https://github.com/KanevPavel/projects/tree/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20SQL)
